@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    background: url(./header_bg\ 1.jpg);
+    height: 0%;
+
+}
+header nav ul{
+    display: flex;
+    justify-content: space-around;
+    color: beige;
+}
+
+
